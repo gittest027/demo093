@@ -1,4 +1,4 @@
-$(document).ready(fn);
+$(fn);
 
 function fn () {
    alert('!');
