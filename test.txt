@@ -1,0 +1,5 @@
+$(document).ready(fn);
+
+function fn () {
+   alert('!');
+}
